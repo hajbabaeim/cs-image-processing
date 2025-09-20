@@ -1,0 +1,57 @@
+# Build outputs
+[Bb]in/
+[Oo]bj/
+[Dd]ebug/
+[Rr]elease/
+*.dll
+*.exe
+*.pdb
+uploads/
+
+# IDE files
+.vs/
+.vscode/
+.idea/
+*.user
+*.suo
+*.sln.iml
+*.DotSettings.user
+
+# NuGet
+packages/
+*.nupkg
+*.nuget.props
+*.nuget.targets
+
+# Web assets
+wwwroot/dist/
+node_modules/
+*.min.css
+*.min.js
+
+# Database
+*.db
+*.sqlite
+*.mdf
+*.ldf
+
+# Logs
+*.log
+logs/
+
+# Environment
+.env*
+appsettings.Development.json
+appsettings.Production.json
+appsettings.Staging.json
+
+# OS
+.DS_Store
+Thumbs.db
+*.tmp
+*.temp
+
+# Mobile
+*.apk
+*.ipa
+*.aab
