@@ -1,0 +1,7 @@
+{
+  "plugins": {
+    "resize": "ImageProcessingFramework.Plugins.ResizeEffect",
+    "blur": "ImageProcessingFramework.Plugins.BlurEffect",
+    "grayscale": "ImageProcessingFramework.Plugins.GrayscaleEffect"
+  }
+}
